@@ -158,3 +158,4 @@ print(" Кривых цитат было встречено: ", Trottling, " ш�
 print("\n   Program complete!!!")
 
 print(" add 1 commit")
+print(" add 2 commit")
